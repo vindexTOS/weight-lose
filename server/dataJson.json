@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Apple",
+    "img": "https://post.healthline.com/wp-content/uploads/2020/09/health-benefits-of-apples-732x549-thumbnail-732x549.jpg",
+    "nutritionalFact": {
+      "caloriesPer100G": 52,
+      "protein": 0.3,
+      "fat": 0.2,
+      "carb": 14
+    },
+    "category": "Fruit"
+  },
+  {
+    "name": "Chicken Breast",
+    "img": "https://cdn.shopify.com/s/files/1/0071/9519/7491/products/Organic-Chicken-Beasts-2.jpg?v=1651000022",
+    "nutritionalFact": {
+      "caloriesPer100G": 165,
+      "protein": 31,
+      "fat": 3.6,
+      "carb": 0
+    },
+    "category": "Meat"
+  },
+  {
+    "name": "Spinach",
+    "img": "https://images.immediate.co.uk/production/volatile/sites/30/2013/06/GettyImages-652986635-3dffa4d.jpg?quality=90&resize=556,505",
+    "nutritionalFact": {
+      "caloriesPer100G": 23,
+      "protein": 2.9,
+      "fat": 0.4,
+      "carb": 3.6
+    },
+    "category": "Vegetable"
+  }
+]
